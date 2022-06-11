@@ -13,4 +13,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCesar10&layout=compact&bg_color=0D1117&text_color=ffffff)](https://github.com/BrunoCesar10/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCesar10&layout=compact&bg_color=0D1117&text_color=ffffff)

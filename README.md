@@ -13,4 +13,4 @@
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCesar10&layout=compact&bg_color=0D1117&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoCesar10&layout=compact&bg_color=0D1117&text_color=ffffff"/>
